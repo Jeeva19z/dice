@@ -45,3 +45,6 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+footer>p{
+margin-bottom:10%;
+}
